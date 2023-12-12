@@ -14,7 +14,8 @@
     "commit": "./node_modules/cz-customizable/standalone.js",
     "type-check": "tsc --noEmit",
     "lint-staged": "lint-staged",
-    "chromatic": "npx chromatic"
+    "chromatic": "npx chromatic",
+    "generate-color-style-sheet": "tsc ./generateColorStyleSheet.ts && node ./generateColorStyleSheet.js"
   },
   "dependencies": {
     "@semantic-release/github": "^9.2.3",

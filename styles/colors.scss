@@ -1,0 +1,19 @@
+:root {
+	--color-black: #030303;
+	--color-medium-brown: #7A746E;
+	--color-light-cream: #FFF7F0;
+	--color-galactic-blue: #755CDE;
+	--color-summer-yellow: #F6A560;
+	--color-pink: #F39E9E;
+	--color-light-red: #EB7565;
+	--color-cyan: #61C4B7;
+	--color-dark-purple: #552049;
+
+	--color-primary: var(--color-black);
+	--color-primary-hover: var(--color-galactic-blue);
+	--color-secondary: var(--color-light-red);
+	--color-secondary-hover: var(--color-summer-yellow);
+	--color-neutral: var(--color-medium-brown);
+	--color-background: var(--color-light-cream);
+	--color-box: var(--color-black);
+}
