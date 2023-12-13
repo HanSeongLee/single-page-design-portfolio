@@ -1,5 +1,13 @@
 # 🚦 CHANGELOG
 
+## [1.1.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.0.0...v1.1.0) (2023-12-13)
+
+
+### ✨ Features
+
+* add font ([3466407](https://github.com/HanSeongLee/single-page-design-portfolio/commit/3466407903d075c96369e64f557a3ee9253d1875))
+* add typography styles ([0246e25](https://github.com/HanSeongLee/single-page-design-portfolio/commit/0246e257c3983b4677ed9cc7e032d8a6790a5697))
+
 ## 1.0.0 (2023-12-12)
 
 
