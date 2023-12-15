@@ -1,5 +1,13 @@
 # 🚦 CHANGELOG
 
+## [1.2.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.1.0...v1.2.0) (2023-12-15)
+
+
+### ✨ Features
+
+* add Icon component ([7cdd319](https://github.com/HanSeongLee/single-page-design-portfolio/commit/7cdd3197129d85e473fa302cba6c77eaa35f0db5))
+* add Logo component ([0d75486](https://github.com/HanSeongLee/single-page-design-portfolio/commit/0d754869f0af0dd316c14a88c6e2b2bc4ec83279))
+
 ## [1.1.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.0.0...v1.1.0) (2023-12-13)
 
 
