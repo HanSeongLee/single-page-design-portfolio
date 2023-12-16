@@ -1,5 +1,13 @@
 # 🚦 CHANGELOG
 
+## [1.3.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.2.0...v1.3.0) (2023-12-16)
+
+
+### ✨ Features
+
+* add responsive style ([abe23b3](https://github.com/HanSeongLee/single-page-design-portfolio/commit/abe23b3b1339d142885ff71286c5647b915d3686))
+* add Typography component ([8cd6c00](https://github.com/HanSeongLee/single-page-design-portfolio/commit/8cd6c00b4241da9f5d5b1d9e2e446d78b1ef1830))
+
 ## [1.2.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.1.0...v1.2.0) (2023-12-15)
 
 
