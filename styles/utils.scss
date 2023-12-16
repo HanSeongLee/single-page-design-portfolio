@@ -1,3 +1,15 @@
 @import '~include-media/dist/include-media';
 
 $breakpoints: (mobile: 568px, tablet: 767px, desktop: 1339px);
+
+@mixin responsive-style($property) {
+  #{$property}: var(--#{$property}-mobile);
+
+  @include media(">tablet") {
+    #{$property}: var(--#{$property}-tablet);
+  }
+
+  @include media(">desktop") {
+    #{$property}: var(--#{$property}-desktop);
+  }
+}
