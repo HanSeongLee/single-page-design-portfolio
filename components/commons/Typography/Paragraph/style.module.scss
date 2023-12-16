@@ -1,0 +1,9 @@
+@import "styles/utils";
+@import "styles/typography";
+
+.paragraph {
+  @include BodyM;
+
+  @include responsive-style(width);
+  @include responsive-style(margin-bottom);
+}

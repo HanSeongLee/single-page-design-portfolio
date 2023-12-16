@@ -1,0 +1,18 @@
+@import "styles/utils";
+@import "styles/typography";
+
+.title {
+  @include responsive-style(margin-bottom);
+
+  &.small {
+    @include HeadingS;
+  }
+
+  &.medium {
+    @include HeadingM;
+  }
+
+  &.large {
+    @include HeadingL;
+  }
+}

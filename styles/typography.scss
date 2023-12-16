@@ -1,5 +1,4 @@
 @import "utils";
-@import "colors";
 
 @mixin Typography($font-size, $font-weight, $font-style, $line-height, $letter-spacing, $font-family) {
   font-size: $font-size;
