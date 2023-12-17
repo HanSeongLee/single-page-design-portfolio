@@ -1,5 +1,18 @@
 # 🚦 CHANGELOG
 
+## [1.4.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.3.0...v1.4.0) (2023-12-17)
+
+
+### ✨ Features
+
+* add Button component ([89b00e0](https://github.com/HanSeongLee/single-page-design-portfolio/commit/89b00e0da979f7d0027d9215862d00527640a97a))
+* add typography styles ([1fd7c2f](https://github.com/HanSeongLee/single-page-design-portfolio/commit/1fd7c2f6a6307610bab3c71e2428a6d80fa01d34))
+
+
+### 🐛 Bug Fixes
+
+* correct accessibility issue ([4b2acec](https://github.com/HanSeongLee/single-page-design-portfolio/commit/4b2acecd102e25f74c1a15d61701c5be7fb47118))
+
 ## [1.3.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.2.0...v1.3.0) (2023-12-16)
 
 
