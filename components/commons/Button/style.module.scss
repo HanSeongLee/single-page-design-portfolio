@@ -1,0 +1,57 @@
+@import "styles/utils";
+
+.button {
+  min-width: 176px;
+  min-height: 44px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 28px;
+  color: var(--color-light-cream);
+  border: none;
+  border-radius: 28px;
+  padding: 8px 26px;
+  cursor: pointer;
+
+  @include media(">tablet") {
+    min-width: 228px;
+    min-height: 56px;
+    font-size: 16px;
+    padding: 14px 45px;
+  }
+
+  @include media(">desktop") {
+    transition: background 0.3s;
+  }
+
+  &.primary, &.icon {
+    background: var(--color-black);
+
+    @include media(">desktop") {
+      &:hover {
+        background: var(--color-galactic-blue);
+      }
+    }
+  }
+
+  &.secondary {
+    background: var(--color-light-red);
+
+    @include media(">desktop") {
+      &:hover {
+        background: var(--color-summer-yellow);
+      }
+    }
+  }
+
+  &.icon {
+    min-width: initial;
+    min-height: initial;
+    width: 64px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    padding: initial;
+  }
+}
