@@ -1,5 +1,18 @@
 # 🚦 CHANGELOG
 
+## [1.5.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.4.0...v1.5.0) (2023-12-18)
+
+
+### ✨ Features
+
+* add Card component ([4fd2f8c](https://github.com/HanSeongLee/single-page-design-portfolio/commit/4fd2f8cefdca30a880738fb02fb5469f22848513))
+* add CardList component ([7ea8f13](https://github.com/HanSeongLee/single-page-design-portfolio/commit/7ea8f131cf2fc799fd52c8ca14eaf55afd8596d3))
+
+
+### 🐛 Bug Fixes
+
+* add missing data ([a108437](https://github.com/HanSeongLee/single-page-design-portfolio/commit/a1084377a726fd8779264f7479d6a5ec7462875c))
+
 ## [1.4.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.3.0...v1.4.0) (2023-12-17)
 
 
