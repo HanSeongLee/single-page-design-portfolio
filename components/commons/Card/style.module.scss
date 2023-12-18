@@ -1,0 +1,36 @@
+@import "styles/utils";
+
+.card {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  font-size: 24px;
+  font-weight: 700;
+  color: #fff;
+  border-radius: 8px;
+  padding: 24px;
+  overflow: scroll;
+
+  &.small {
+    //min-width: 159px;
+    //min-height: 182px;
+  }
+
+  &.medium {
+    //min-width: 343px;
+    //min-height: 158px;
+  }
+
+  &.large {
+    //min-width: 343px;
+    //min-height: 364px;
+  }
+
+  .patternWrapper {
+    width: 100%;
+    text-align: right;
+  }
+}
