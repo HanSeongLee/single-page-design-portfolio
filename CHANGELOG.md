@@ -1,5 +1,13 @@
 # 🚦 CHANGELOG
 
+## [1.6.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.5.0...v1.6.0) (2023-12-19)
+
+
+### ✨ Features
+
+* add HeroSection component ([d94cd4f](https://github.com/HanSeongLee/single-page-design-portfolio/commit/d94cd4f012f3c7b7c30cfcebcb9ad018cbf79738))
+* add IntroSection component ([864c906](https://github.com/HanSeongLee/single-page-design-portfolio/commit/864c906bd90b296b8f4e3c574f40244a74ae93f5))
+
 ## [1.5.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.4.0...v1.5.0) (2023-12-18)
 
 
