@@ -1,0 +1,21 @@
+@import "styles/utils";
+
+.slider {
+
+  :global(.slick-slide) > div {
+    display: flex !important;
+    cursor: grab;
+  }
+
+  .buttonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 32px;
+    gap: 16px;
+
+    @include media(">tablet") {
+      margin-top: 56px;
+    }
+  }
+}
