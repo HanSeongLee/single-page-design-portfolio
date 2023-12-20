@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.7.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.6.0...v1.7.0) (2023-12-20)
+
+
+### ✨ Features
+
+* add Slider component ([c9a6c79](https://github.com/HanSeongLee/single-page-design-portfolio/commit/c9a6c79ca1dded46c5195efff604271e10855ec4))
+
 ## [1.6.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.5.0...v1.6.0) (2023-12-19)
 
 
