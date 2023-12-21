@@ -1,0 +1,38 @@
+@import "styles/utils";
+
+.myWorkSection {
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-bottom: 32px;
+
+    @include media(">tablet") {
+      margin-bottom: 56px;
+    }
+  }
+
+  .slide, .image {
+    width: 270px;
+    height: 180px;
+
+    @include media(">tablet") {
+      width: 540px;
+      height: 360px;
+    }
+  }
+
+  .slide {
+    margin-right: 15px;
+    outline: none;
+
+    @include media(">tablet") {
+      margin-right: 30px;
+    }
+  }
+
+  .image {
+    border-radius: 10px;
+  }
+}
