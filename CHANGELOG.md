@@ -1,5 +1,13 @@
 # 🚦 CHANGELOG
 
+## [1.8.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.7.0...v1.8.0) (2023-12-21)
+
+
+### ✨ Features
+
+* add CTABox component ([edc9996](https://github.com/HanSeongLee/single-page-design-portfolio/commit/edc9996d83178a4798264e9b0f1d556cba7b3587))
+* add MyWorkSection component ([ac7dc28](https://github.com/HanSeongLee/single-page-design-portfolio/commit/ac7dc2887f9076d95aed32e11dc469a1b1b9cf3e))
+
 ## [1.7.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.6.0...v1.7.0) (2023-12-20)
 
 
