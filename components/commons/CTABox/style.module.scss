@@ -1,0 +1,31 @@
+@import "styles/utils";
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  text-align: center;
+  background: var(--color-box);
+  border-radius: 10px;
+  padding: 49px 24px 48px;
+
+  @include media(">tablet") {
+    gap: 26px;
+    padding: 56px 75px 64px;
+  }
+
+  @include media(">desktop") {
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+    padding: 81px 95px 80px 65px;
+  }
+
+  .content {
+    max-width: 540px;
+    display: flex;
+    flex-direction: column;
+    gap: inherit;
+  }
+}
