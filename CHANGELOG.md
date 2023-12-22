@@ -1,5 +1,14 @@
 # 🚦 CHANGELOG
 
+## [1.9.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.8.0...v1.9.0) (2023-12-22)
+
+
+### ✨ Features
+
+* add CTASection component ([98f7693](https://github.com/HanSeongLee/single-page-design-portfolio/commit/98f7693f15c680ad9679083880a4a7c9307f042f))
+* add main page ([642deb1](https://github.com/HanSeongLee/single-page-design-portfolio/commit/642deb1518dcb2d2102330fcb9c99977897f4f29))
+* add stories for CTABox component ([102be91](https://github.com/HanSeongLee/single-page-design-portfolio/commit/102be9130f6cf1ebbd3b6c6b4133a2051f8d880a))
+
 ## [1.8.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.7.0...v1.8.0) (2023-12-21)
 
 
