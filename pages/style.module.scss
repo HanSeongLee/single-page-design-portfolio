@@ -1,0 +1,15 @@
+@import "styles/utils";
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+
+  @include media(">tablet") {
+    gap: 120px;
+  }
+
+  @include media(">desktop") {
+    gap: 88px;
+  }
+}
