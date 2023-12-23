@@ -1,5 +1,22 @@
 # 🚦 CHANGELOG
 
+## [1.10.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.9.0...v1.10.0) (2023-12-23)
+
+
+### ✨ Features
+
+* add stories for Slider component ([699ad22](https://github.com/HanSeongLee/single-page-design-portfolio/commit/699ad22c48c1369e397e0f7cb6c1f0e7e6a3019a))
+
+
+### 🐛 Bug Fixes
+
+* add font to Storybook preview head ([d52bf03](https://github.com/HanSeongLee/single-page-design-portfolio/commit/d52bf03a82f006334eee7406464630391edb68a7))
+
+
+### 📝 Docs
+
+* **README:** update README.md ([aad5889](https://github.com/HanSeongLee/single-page-design-portfolio/commit/aad588995679a15011e9af326fb553b08d138ebe))
+
 ## [1.9.0](https://github.com/HanSeongLee/single-page-design-portfolio/compare/v1.8.0...v1.9.0) (2023-12-22)
 
 
