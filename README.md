@@ -1,5 +1,5 @@
-# Frontend Mentor NextJS TS Template
-![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/HanSeongLee/frontend-mentor-nextjs-ts-template)
+# Single Page Design Portfolio
+![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/HanSeongLee/single-page-design-portfolio)
 
 ![Next.JS:v13.5.6](https://img.shields.io/badge/v13.5.6-575757?logo=next.js&label=Next.js&labelColor=000000)
 ![React:v18.2.0](https://img.shields.io/badge/v18.2.0-575757?logo=react&logoColor=000000&label=React&labelColor=61DAFB)
@@ -63,4 +63,4 @@ Here are some example commit messages that adhere to the convention:
 
 You can view the Storybook for this project on Chromatic:
 
-- [main](https://main--654f2c3d721586694df990a3.chromatic.com)
+- [main](https://main--6578393bb9d38e7c9320d20b.chromatic.com)
